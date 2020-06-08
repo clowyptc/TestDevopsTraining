@@ -51,7 +51,7 @@
                              name="BranchName"
                              ordinal="7"></FieldDefinition>
                             <FieldDefinition
-                             aspect.defaultValue="jdoe@ptc.com"
+                             aspect.defaultValue="clowy@ptc.com"
                              aspect.friendlyName="Commit Email"
                              baseType="STRING"
                              description=""
